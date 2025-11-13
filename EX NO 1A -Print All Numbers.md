@@ -43,8 +43,8 @@ public class Main {
 
 ## Output:
 ```
-N = 5
-1 2 3 4 5
+<img width="476" height="162" alt="image" src="https://github.com/user-attachments/assets/c9c3584a-9184-4582-831d-ac0aee8f119d" />
+
 ```
 ## Result:
 The program successfully print all the numbers from 1 to N. 
